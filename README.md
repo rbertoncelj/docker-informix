@@ -1,4 +1,4 @@
-# docker-informix
+# Docker Informix
 
 Dockerized Informix Developer Edition 12.10 based on [ibmcom/informix-developer-database](https://hub.docker.com/r/ibmcom/informix-developer-database/)
 
