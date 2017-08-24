@@ -1,6 +1,6 @@
 # Docker Informix
 
-Dockerized Informix Developer Edition 12.10 based on [ibmcom/informix-developer-database](https://hub.docker.com/r/ibmcom/informix-developer-database/)
+Dockerized Informix Developer Edition 12.10 based on [ibmcom/informix-developer-database](https://hub.docker.com/r/ibmcom/informix-developer-database/) (GitHub: https://github.com/IBM-IoT/informix-dockerfiles)
 
 The only change so far is increasing root db space to 10GB instead of default 300MB.
 
